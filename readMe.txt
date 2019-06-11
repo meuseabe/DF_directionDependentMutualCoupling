@@ -1,4 +1,4 @@
-﻿This codes are for the paper:
+﻿These MATLAB codes are prepared for the paper:
 A. M. Elbir, “Direction Finding in the Presence of Direction-Dependent Mutual Coupling," 
 in IEEE Antennas and Wireless Propagation Letters, vol. 16, no. , pp. 1541-1544, 2017. doi: 10.1109/LAWP.2017.2647983
 
